@@ -1,4 +1,6 @@
-# DAY ONE
+# Provisional Course Schedule
+
+## DAY ONE (May 11, 2017)
 * 8:00-Setup
 * 9:00-Fundamentals
 * 11:30-Lunch
@@ -6,7 +8,7 @@
 * 4:00-End/Break for study
 * 4:30- Dinner/Study
 
-# DAY TWO
+## DAY TWO (May 12, 2017)
 * 8:00-Deployment 
 * 11:30-Lunch 
 * 12:30- Interesting Integration
