@@ -8,3 +8,6 @@
 - RubyInstaller DevKit if Windows users run into trouble with a Rails setup: http://rubyinstaller.org/add-ons/devkit/
 - A programmer's text editor:  Atom, VSCode, Sublime, TextMate, Vim, Emacs, etc.
 Did you want the hour by hour schedule for the website as well? 
+
+### Alternative setup for users without access to a solid Ruby install
+- [C9.io](https://c9.io/) workspaces to be configured and distributed by instructors before the start of course.
