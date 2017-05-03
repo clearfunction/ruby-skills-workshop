@@ -12,7 +12,7 @@
   * Build a Sinatra app with a separate class for its business logic
 * 11:30-Lunch
 * 12:30-Rails
-  * `rails new`
+  * `rails new` (v 4.2.6 for Codenvy compatibility)
   * Brief intro to MVC
   * My first scaffolded CRUD
   * Basics of asset compilation
