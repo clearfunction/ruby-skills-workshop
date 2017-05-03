@@ -3,7 +3,7 @@
 ## DAY ONE (May 11, 2017)
 * 8:00-Setup
   * Ensure everyone's on the internet, got Ruby 2.3.x up and running and can `gem install nokogiri`.
-  * Fall back to c9.io for any students who can't complete that first task
+  * Fall back to codenvy.io for any students who can't complete that first task
   * Set up a simple git repository
 * 9:00-Fundamentals
   * Introduction to dynamic languages
