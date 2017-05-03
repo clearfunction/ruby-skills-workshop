@@ -9,7 +9,7 @@
   * Introduction to dynamic languages
   * Let's Play with `pry`
   * Build a Sinatra app with a single method ([Sinatra exec help for Codenvy](http://i.imgur.com/Yq3qQz3.png))
-  * Build a Sinatra app with a separate class for its business logic
+  * Build a Sinatra app with a separate class for its business logic
 * 11:30-Lunch
 * 12:30-Rails
   * `rails new` (v 4.2.6 for Codenvy compatibility)
