@@ -4,7 +4,7 @@
 
 ## What's the problem?
 
-![Old App](images/old-app.png)
+![Old App](./images/old-app.png)
 
 <..>
 
@@ -18,7 +18,7 @@
 
 ## History of SCM
 
-![SCM History](images/scm-history.png)
+![SCM History](./images/scm-history.png)
 
 <..>
 

@@ -4,7 +4,7 @@
 
 ## Matz!
 
-![Matz!](images/matz.jpg)
+![Matz!](./images/matz.jpg)
 
 Note:
 - Yukuhiro Matsumoto - nicknamed "Matz"
