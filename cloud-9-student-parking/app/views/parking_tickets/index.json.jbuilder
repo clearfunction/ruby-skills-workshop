@@ -1,0 +1,1 @@
+json.array! @parking_tickets, partial: 'parking_tickets/parking_ticket', as: :parking_ticket

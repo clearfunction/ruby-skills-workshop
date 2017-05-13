@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fee: 9.99
+  reporter: MyString
+  description: MyText
+  student_id: 
+
+two:
+  fee: 9.99
+  reporter: MyString
+  description: MyText
+  student_id: 
